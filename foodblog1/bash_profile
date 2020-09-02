@@ -1,0 +1,7 @@
+#!/bin/bash
+
+export SECRET_KEY='09b043f855583059275f7455960fa058'
+export SQLALCHEMY_DATABASE_URI="sqlite:///sites.db"
+export MAIL_USERNAME='anakorellana@gmail.com'
+export MAIL_PASSWORD='Expiacion2020'
+
