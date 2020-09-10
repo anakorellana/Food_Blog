@@ -7,7 +7,7 @@ from foodblog1 import db
 from foodblog1.models import Post, Comments, User
 from foodblog1.posts.forms import PostForm, CommentForm
 
-APP_PHOTO_ROOT = "/Users/anakarinaorellana/Food_Blog/foodblog1/static"
+APP_PHOTO_ROOT = "/home/anakorellana/Food_Blog/foodblog1/static"
 
 posts = Blueprint('posts', __name__)
 
