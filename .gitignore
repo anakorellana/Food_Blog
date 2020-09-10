@@ -4,6 +4,7 @@ get-pip.py
 *.db
 venv/
 profile_pics/
+*.qq
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
