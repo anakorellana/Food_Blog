@@ -1,7 +1,9 @@
 *.DS_Store
 get-pip.py
 .idea/
-
+*.db
+venv/
+profile_pics/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
