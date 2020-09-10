@@ -27,7 +27,7 @@
             <p class="article-content">{{ post.content|safe }}</p>
 
         </div>
-
+<h2>Comment Here!</h2>
         <div>
             {{ form.body.label }}
             {% if form.body.errors %}
@@ -46,8 +46,10 @@
 </form>
 
 </article>
+
 <div class="post">
     <div class="post-footer">
+
 
        {% include "comment.html" %}
     </div>
